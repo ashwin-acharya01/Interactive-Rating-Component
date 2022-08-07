@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ashwin-acharya01/Interactive-Rating-Component)
-- Live Site URL: [Add live site URL here](ratingcomponentfm.netlify.app)
+- Solution URL: [Challenge Solution](https://github.com/ashwin-acharya01/Interactive-Rating-Component)
+- Live Site URL: [Live Site URL](ratingcomponentfm.netlify.app)
 
 ## My process
 
@@ -55,6 +55,6 @@ This challenge helped me learn basics of JavaScript and DOM Manipulation.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/ashwin-acharya01)
-- Twitter - [@yourusername](https://www.twitter.com/AshwinA61109683)
+- Frontend Mentor - [@ashwin-acharya01](https://www.frontendmentor.io/profile/ashwin-acharya01)
+- Twitter - [@Ashwin Acharya](https://www.twitter.com/AshwinA61109683)
 
