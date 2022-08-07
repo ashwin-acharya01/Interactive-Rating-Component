@@ -28,14 +28,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
+![Main Page](https://user-images.githubusercontent.com/87590123/183301650-83497b8d-bdc0-4ed9-8f11-9c666abfb40e.png)
+![Thank You Page](https://user-images.githubusercontent.com/87590123/183301704-cc33b2e1-a30d-49cc-8f68-06db13d7c17d.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/ashwin-acharya01/Interactive-Rating-Component)
+- Live Site URL: [Add live site URL here](ratingcomponentfm.netlify.app)
 
 ## My process
 
@@ -55,12 +55,6 @@ This challenge helped me learn basics of JavaScript and DOM Manipulation.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/ashwin-acharya01)
+- Twitter - [@yourusername](https://www.twitter.com/AshwinA61109683)
 
