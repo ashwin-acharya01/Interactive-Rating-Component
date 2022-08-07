@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --White: hsl(0, 0%, 100%);
+    --LightGrey: hsl(217, 12%, 63%);
+    --MediumGrey: hsl(216, 12%, 54%);
+    --DarkBlue: hsl(213, 19%, 18%);
+    --VeryDarkBlue: hsl(216, 12%, 8%);
+    --Orange: hsl(25, 97%, 53%);
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: var(--VeryDarkBlue);
+}
+
+#rating{
+    display: flex;
+    flex-direction: column;
+    justify-content:left;
+    align-items: left;
+    gap: 1em;
+    max-width: 320px;
+    background-color: var(--DarkBlue);
+    padding: 1.4em;
+    border-radius: 1em;
+    color: var(--White);
+    font-family: 'Overpass', sans-serif;
+}
+#rating p{
+    font-size: 13px;
+    font-weight: 200;
+    line-height:1.5em;
+    padding-bottom: 0.8em;
+    color: var(--LightGrey);
+}
+#rating h2{
+    font-weight: 700;
+}
+#rating img{
+    padding: 0.5em;
+    background-color: var(--VeryDarkBlue);
+    border:none;
+    border-radius: 50%;
+}
+.buttons{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.buttons button{
+    width: 3em;
+    height: 3em;
+    border: none;
+    border-radius: 50%;
+    background-color: var(--VeryDarkBlue);
+    color:var(--White);
+}
+.buttons button:hover{
+    cursor: pointer;
+    background-color: var(--Orange);
+    color:var(--White);
+}
+#submit{
+    height:3em;
+    border: none;
+    border-radius: 1.5em;
+    background-color: var(--Orange);
+    color:var(--White);
+}
+#submit:hover{
+    cursor: pointer;
+    background-color: var(--White);
+    color: var(--Orange);
+}
+
+#rating[data-visible = "false"]{
+    display:none;
+}
+
+
+#thank-you{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+    gap: 1em;
+    max-width: 320px;
+    background-color: var(--DarkBlue);
+    padding: 1.4em;
+    border-radius: 1em;
+    color: var(--White);
+    font-family: 'Overpass', sans-serif;
+}
+#thank-you p{
+    font-size: 13px;
+    font-weight: 200;
+    line-height:1.5em;
+    color: var(--LightGrey);
+    text-align: center;
+}
+#thank-you h5{
+    color: var(--Orange);
+    background-color: var(--VeryDarkBlue);
+    padding: 0.5em 1em;
+    border-radius: 1em;
+    font-weight: 100;
+}
+#thank-you[data-visible = "false"]{
+    display: none;
+}
+
+.attribution{
+    margin-top: 1em;
+    font-size: 11px;
+    color:var(--LightGrey);
+    text-align: center;
+}
+.attribution a{
+    color: var(--White);
+}
